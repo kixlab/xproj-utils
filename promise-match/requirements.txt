@@ -1,0 +1,4 @@
+requests[security]
+gensim
+numpy
+scipy
