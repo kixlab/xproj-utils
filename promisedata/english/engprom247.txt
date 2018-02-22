@@ -1,0 +1,145 @@
+
+Citizen-9 Seoul City Hall building
+Promotion status
+complete
+Business division
+Within the term of office
+new
+Total project cost
+Final goal
+25 million won
+Household amount
+25 million won
+○ The Seoul Metropolitan Government can integrate the proposals and minutes of the Seoul Metropolitan Government
+Convenience of searching for citizen by building bill portal
+ Promotion plan (policy outline)
+○ Step-by-step construction of bill and minutes integration system
+- (Step 1) On the website of the existing city council,
+Establishment of linkage page for viewing
+· Investigation and maintenance of the public disclosure of the autonomy bill and minutes
+· Consolidated access to the council information and minutes of the prefectural assembly on the website of the Seoul Metropolitan Assembly
+And page creation
+- (Step 2) Added integrated city information search function of municipal government on city council website
+· Establishment of interlocking bill information system
+· Added the ability to search the city council website for autonomous bill information.
+○ Project Period: '15. March ~ December, December
+Unit business
+'14
+'16 years '17 years '18 .6 months after the term
+1Q 2Q 3Q 4Q
+'15
+Integrated system
+build
+Link
+home page
+-
+-
+-
+build
+Search
+Add Features
+operation
+operation
+operation
+-
+- 1297 -
+○ Detailed plan for the 16th quarter
+Unit business
+'16
+First quarter
+Third quarter
+Quarter
+Integrated System Operation
+Operation and maintenance of the bill portal search system in Seoul
+ Investment demand by year (Plan)
+Within the term of office
+(In millions of Korean won)
+After tenure
+division
+system
+'14
+'15
+'16
+'17 year '18 .6 month
+City
+25
+-
+25
+-
+-
+-
+-
+Unit business
+Integrated system
+ Amount due by year
+Within the term of office
+(In millions of Korean won)
+After tenure
+Unit business
+Integrated system
+build
+division
+system
+'14
+'15
+'16
+'17 year '18 .6 month
+City
+25
+-
+25
+-
+-
+-
+-
+ Performance
+Unit business
+'14
+'16
+Q1 Q2
+Third quarter
+4Q 1Q 1Q 2Q 3Q 4Q
+Integrated system
+build
+Borough Council
+meeting log
+Link to the bill (link)
+Build pages
+-
+A bill of autonomy
+Construction Status
+grasp
+A bill of autonomy
+Minutes data
+API for collection
+Development and testing
+Bill portal
+open
+Operation Operation Operation Operation
+('15.11.17.)
+- 1298 -
+○ Integrated search system construction
+Establish linkage page for operation: 2014. October
+· Consolidated access to the council information and minutes of the prefectural assembly on the website of the Seoul Metropolitan Assembly
+And page creation
+- Added integrated city information search function to municipal council homepage
+· Is it possible to investigate and link the public disclosure of the Council of Local Authorities Opinion Views: 2015. April
+· Municipal council bill information for city and autonomous district bill information interlocking system establishment information
+Identify the details of the construction (DB specification, etc.): May 2015
+· Development and testing of APIs for collecting data and minutes of autonomous districts: 2015. July ~ October
+· Bill portal opening: November 17, 2015.
+※ Seoul port construction status
+향후 Future plan
+○ Detailed plan for the quarter of '17
+Unit business
+First quarter
+Q2
+Third quarter
+Quarter
+'17
+Integrated System Operation
+Operation and maintenance of the bill portal search system in Seoul
+○ Operation and Maintenance of Seoul Portal Portal Search System
+- Operation and maintenance of bill portal: 2017 year round
+Head of Public Affairs Department: Lim Byeong-Bim ☎ 3702-1313 Director of Image Media Team: Lee Chang-woo ☎ 1330 Charge: Han Jin-hee ☎ 1367
+- 1299 -

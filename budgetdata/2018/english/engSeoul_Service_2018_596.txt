@@ -1,0 +1,13 @@
+
+Citizen Communication Planner Citizen's Service Officer
+General public administration
+Provide high-quality civil service
+& lt; Response element & gt; <br> ㅇ Operation and maintenance of response system <br> ㅇ Response site civil complaint handling system Mobile web development & lt; civil complaint management system & gt; <br> ㅇ Application of civil application management system SW commercial SW maintenance (Periodic inspection and occasional inspection) ㅇ Calculation of shortening rate (speed index) of main office and autonomous district civilization processing improvement - Reflect the user requirements for
+<Response>
+ㅇ Act on civil affairs office processing, Article 7 of Electronic Government Act
+ㅇ Complaint proposal integrated management plan (Market Policy No. 314, October 11, 2012)
+ㅇ Complaints proposal system integrated management ISP promotion plan (Citizens Service Officer -21428, October 25, 2012.)
+ㅇ Complaints suggestion integrated management system construction plan (Citizen Service Officer -14194, 2013. 4.18)
+ㅇ Plan for the establishment of the integrated civil affairs office (plan) (Market Policy No. 411, Oct. 26, 2010)
+& lt; Response site & gt; - Establishment of response site (civil application proposal integrated management system): 2013. 7. 1. ~ 2014. 2. 15. - ~ & lt; Formal Privilege Management System & gt; <br> ㅇ Establish master plan for construction of general civil affairs management system: 2008. 10. ~ ~ 2009. 2. <br> ㅇ Establish general civil affairs management system: 2009. 4. ~ 2009. 10. <br> ㅇ General civil affairs management System operation commencement (large public disclosure): 2010. 1. 1. ~
+ㅇ Stable operation of system through continuous improvement of function and maintenance ㅇ Improvement of citizen satisfaction through prompt and accurate complaint handling ㅇ Integrated monitoring of civil complaints and integration of response centers Enhanced pre-emptive civil service management by utilizing administrative data

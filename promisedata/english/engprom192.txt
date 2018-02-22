@@ -1,0 +1,210 @@
+
+Innovation-50 Congestion
+Promotion status
+Continue after implementation
+Business division
+Within the term of office
+continue
+Total project cost
+753 million won
+Household amount
+322 million won
+Final goal
+○ With the flow information of Seoul's major tourist attractions (congestion)
+Enhance tourist convenience by providing comprehensive tourist information including reservations through mobile
+ Promotion plan (policy outline)
+○ Congestion information of major sightseeing spots in Seoul, along with nearby recommended places / courses / accommodations
+Provide comprehensive tourist information via mobile
+- '14: Convergence information database conversion
+- Year '15: Location of tourist area, traffic around the area, reservation status, etc.
+Provide mobile app services with tailored congestion information
+- '16 ~: Continuous operation of mobile-based comprehensive tourism service
+○ Project Period: '14 .7 ~ '15 .9 (Completion)
+ Annual Plan
+Unit business
+'14
+1Q 2Q 3Q 4Q
+'15
+Congestion information
+offer
+App development and
+service
+enlargement
+traffic/
+Congestion
+Demonstration
+service
+Destination and
+Reservation, etc.
+input
+(avatar)
+Operating and
+Technical review
+Information
+Processing
+system
+App development
+Development
+(5 places)
+result
+Pilot operation
+Results
+Reflective
+Technical
+security
+service
+enlargement
+Apps - Web
+Linkage synthesis
+-
+offer
+business
+operation
+(mobile
+tourism
+Information synthesis
+offer)
+- 1052 -
+○ Detailed plan for the 16th quarter
+Unit business
+Provide congestion information
+Expand your app development and services
+'16
+First quarter
+Third quarter
+Quarter
+Detailed operation plan establishment Download activation Promotion function · Improvement of content inspection check result reflection
+ Investment demand by year (Plan)
+Within the term of office
+(In millions of Korean won)
+After tenure
+division
+system
+'14
+'15
+'16
+'17 year '18 .6 month
+City
+753
+-
+153
+200
+200
+200
+-
+Unit business
+Congestion information
+offer
+Expansion of service
+ Amount due by year
+division
+system
+'14
+'15
+'16
+'17 year '18 .6 month
+Within the term of office
+After tenure
+(In millions of Korean won)
+City
+322
+-
+153
+169
+-
+-
+-
+Unit business
+Congestion information
+offer
+App development and
+Expansion of service
+Unit business briefing session
+(Unit: number of times)
+Congestion information
+offer
+App development and
+Expansion of service
+One
+2
+2
+2
+-
+- 1053 -
+○ Seoul Metropolitan Government Tourism Policy Debate Forum (September '14)
+○ Survey on the status of foreign tourists in Seoul (2)
+○ Seoul Tourism Development Council Advisory Council ('15 .2)
+○ Expert Advisory Council for Improvement of Seoul Tourism Online Information Providing (April '15)
+○ Press Release: Seoul Tourism Mobile App "Best Mobile E-Government Award" Tourism Sector
+1st prize ('15.2
+Seoul Tourism Mobile Web Site 13th Web Awards Korea Travel / Tourism
+Grand Prize and Mobile App 2016 Smart App Awards Travel / Tourism
+Awarded the Grand Prize ('16 .12
+ Performance
+Unit business
+'14
+'16
+1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q
+Congestion information
+offer
+App development and
+Expansion of service
+Content Verification
+And technology review
+Apps
+Improving
+work
+confusion
+Information
+Processing
+App development
+And release
+Use app
+Activation
+promotion
+PC-mobile
+App features
+Web - Apps
+Web integration
+Improving
+App features
+Improving
+promotion
+○ Performance reservation information
+- Contents of Seoul Tourism Homepage (Performance reservation information)
+Identify and test available coverage of existing data such as congestion information (city traffic headquarters)
+○ Minimize existing app capacity and develop new content linkage function ('15 .3 ~ '15 .9)
+- Delete unnecessary data
+○ Launch and operation of new apps including congestion information ('15 .9 ~)
+- Launch of Seoul Tourism Mobile App in easy-to-use, lightweight format
+: Google Store (September '15)
+- Traffic congestion information for the entire city of Seoul
+※ Festive event recommendation course of Seoul official tourist website (visitseoul.net)
+All information including sightseeing spot TOP10 can be searched in real time
+- 1054 -
+○ PC-mobile integration platform and app connection and improvement ('16 .6)
+- Improved user screen (UI): automatic night / day image switching
+- Augmented Reality Expansion: Seoul Tour Guidebook Real-time Information (Traffic
+main screen
+Real-time information around the location
+Augmented reality
+○ Promotion of app function promotion commemorative download event promotion ('16 .11)
+향후 Future plan
+○ Detailed plan for the quarter of '17
+'17
+First quarter
+Q2
+Third quarter
+Quarter
+Provide congestion information
+Expand your app development and services
+Detailed operational planning
+Activate download
+promotion
+Improved function / content check result
+○ Promotion of new tourist mobile app in Seoul and activation of use
+- Congestion information around sightseeing spots using guidebooks and popular local travel media
+(Traffic, etc.) How to use
+Activation of services such as induction promotion
+Director General of Tourism Division: Ohje Castle ☎ 2133-2770 Tourist Information Team Leader: Kim, Ga Young ☎ 2781 Charge: Choi Hee Hee ☎ 2784
+- 1055 -

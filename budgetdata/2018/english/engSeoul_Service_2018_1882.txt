@@ -1,0 +1,12 @@
+
+Information plan manager information security officer
+General public administration
+Establishment of information protection system
+○ Checking the status of information security management of affiliated organizations and affiliated institutions, checking security vulnerabilities of information assets (PC, server, etc.) , Cyber ​​security cooperation system (cyber security council, workshop, etc.) ○ Applying consistent virus / patch security policy by purchasing and managing the license of the vaccine S / W license and patch management system - I buy my PC zipper by converting it to a paid version. - ○ Information protection system preventive maintenance · Disaster recovery
+○ E-Government Act Article 56 (Establishment and Implementation of Security Measures for Information and Communication Network)
+○ Article 70 of E-government Act Enforcement Decree (confirmation of whether security measures are implemented)
+○ National Cyber ​​Safety Management Policy Article 9 (Establishment and implementation of cyber safety measures, etc.)
+○ Article 17 of the National Information Security Basic Guideline and Article 12 (Cyber ​​Security Diagnosis Day)
+○ Integrated maintenance plan for information protection system (2016.6.30)
+○ In response to the urgent need for cyber terrorism (March 3, 2016), the Mayor requested that: ○ Update the antivirus engine and install the malicious code treatment system throughout the year. ○ Integrated maintenance plan for information protection system (2016.6.30)
+○ 2016.10: Establishment of maintenance service plan ○ ○ 2016.10 ~ 11: Preparing business order in advance ○ ○ 2016.12: Contract is concluded ○ ○ 2017.01 ~ 12: Business implementation ○ ○ 2017.01 ~ 2017.02: 2017.02 ~ 2017.03: Renewal and operation of antivirus license - ○ 2017.02 ~ 2017.03: PC security diagnosis program business order and contract - ○ 2017.03 ~ 2017.09: Regular inspection system service

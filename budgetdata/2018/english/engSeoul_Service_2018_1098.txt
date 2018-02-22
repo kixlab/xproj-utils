@@ -1,0 +1,14 @@
+
+Information plan manager information security officer
+General public administration
+Establishment of information protection system
+ㅇ Integrated security management service (83 agencies, 850 kinds of equipments, 850 units, 24 hours a day, 365 days a day) ㅇ Vulnerability check and simulation training for infringement prevention ㅇ Expansion of organizations subject to security control and replacement of old information protection system < Information Management System (ISMS) Certification Examination
+○ Personal Information Protection Act Article 29 (Safety Measures Obligations)
+○ E-Government Act Article 56 (Implementation of Security Measures for Information and Communication Network)
+○ Article 45 of the Act on Promotion of Information Network Usage and Information Protection, etc. (Securing the Stability of Information and Communication Network)
+○ National Information Security Basic Guideline Article 125 (Installation and Operation of Security Control Center)
+○ National Cyber ​​Safety Management Regulations (Presidential Decree No. 316, September 2, 2013)
+○ National Computer Network Security Control Guidelines (National Intelligence Service, Aug. 1, 2009)
+○ Seoul Metropolitan City Basic Informatization Ordinance Article 29 (Operation of Integration Center)
+○ '09. December 1: Establishment and operation of the Integrated Security Control Center in Seoul. 1st ~ 12th: Implementation of the Integrated Security Control Center of Seoul City in 2016 - ○ '16. 4. ~ 8.: Promotion of next-generation security control system construction project ○ ○ '16. 6. 25: Establishment of Integrated Security Control Center (Seosomun Government Complex 1 → Esplex Center)
+○ Planning: 2016.10 ~ 2016.10 - ○ Pre-ordering of business order: 2016.11 ~ 2016.11 ○ Operational service contract: 2016.12 ~ 2017.01 ○ Operational service business: 2017.01 ~ 2017.12 - ○ Cyber ​​infringement countermeasure Guidance and manual maintenance: 2017.02 ~ 2017.06 <br> ○ Information protection system replacement: 2017.01 ~ 2017.06 <br> ○ ISMS certification examination: 2017.07 ~ 2017.09

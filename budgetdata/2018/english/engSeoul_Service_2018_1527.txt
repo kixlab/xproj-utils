@@ -1,0 +1,11 @@
+
+Information Planning Officer Space Information Officer
+General public administration
+Integrated spatial information management
+○ Development of an easy-to-use spatial information link module from the consumer's point of view. ○ Development of metadata maintenance and monitoring guidance tool for search by location-based lifecycle. ○ Developing a national location reference system (road name address, Current map
+○ Grounds for statute
+- Road Name Address Law (Law No. 19897, revised on August 4, 2011)
+○ Other grounds (policies, guidelines, etc.)
+- Implementation plan for application of Seoul map tag (Market Policy No. 150, June 5, 2013)
+○ 12.05 ~ 12.12: Integrated Mobile GIS Platform Operation Project (2012) * Restarting the platform platform - ○ 13.07 ~ 14.02: Mobile space information platform smart operation environment construction project (2013) 14.02: Improvement of spatial information platform function (2014) <br> ○ 15.05 ~ 15.12: Seoul map tagging and utilization of spatial information platform (2015)
+○ 2015.12. : Business ordering - ○ 2016.1. : Business Contracts - ○ 2016.1. ~ 12.: Platform operation and development of new functions - ○ 2016.12. : Business completion

@@ -1,0 +1,11 @@
+
+Data Center Planning and Management Division
+General public administration
+System equipment replacement and reinforcement
+- Replace Intrusion Prevention System: Two Front Internal Firewalls, Two Security DB Zone Firewalls <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> - 1 unit, back-linked integrated management system <br> <br> - Purchase spare equipment for emergency disaster recovery: 1 firewall, 1 IPS
+○ National Information and Communication Security Basic Guideline Article 25 (Electronic Information Security Measures)
+○ Network construction guidelines for the implementation of secure information communication environment (NIS-1383)
+○ Article 25 of the 「Enforcement Rule of the Commodity Management Act」, 「Revision of the useful life」 (PPS notice)
+- Degradation and service delays caused by system aging and lack of performance
+○ Possibility of failure due to aging of information protection systems such as firewalls and VPNs with years of useful life. - Based on: 365 days "Disability management system improvement plan for non-stop service" <br> (Information planner policy / July, 2016 7. 7) Need to secure firewalls and IPS spare equipments in preparation for urgent disruptions of critical networks - -6478, July 7, 2016)
+- 2017.01 ~ 2017.02: Establishment of the implementation plan - 2017.02 ~ 2017.03: Request for security review (Information and communication security officer) - 2017.02 ~ 2017.03: Request for contract examination Order and Contracts - 2017.06 ~ 2017.09: Delivery and Installation - - 2016.4 ~ 8 Delivery

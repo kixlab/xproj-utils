@@ -1,0 +1,169 @@
+
+Innovation -47 Living in Seoul
+Promotion status
+Continue after implementation
+Business division
+Within the term of office
+new
+Total project cost
+25 million won
+Household amount
+Not Enough
+Final goal
+○ Citizens can easily use 'smartphone' to provide 'price information'
+Developed mobile web (system) to access
+ Promotion plan (policy outline)
+○ Business Overview
+- Establishment of online homepage. Strengthening: Use of 'water price information homepage (mulga.seoul.go.kr)'
+· Provide accurate price information through frequent monitoring of price monitors
+- Building a mobile environment: linking with "Smart Seoul Map"
+· We added a 'water price information' theme to 'smart Seoul map'
+Building an environment to search for price information
+○ Project Period: '15. 2. ~ 5.
+ Annual Plan
+'15
+Unit business
+'16 years '17 years '18 .6 months after the term
+1Q 2Q 3Q 4Q
+Seoul City
+Price information
+mobile
+System development
+-
+Price information
+home page
+Maintenance
+-
+-
+-
+mobile
+Web build
+home page
+home page
+And Web
+operation
+And Web
+operation
+-
+- 1044 -
+○ Detailed plan for the 16th quarter
+Seoul Waterfront Information
+Mobile System Development
+'16
+First quarter
+Q2
+Third quarter
+Quarter
+Price information homepage and
+Price information homepage
+Price information homepage and
+Price information homepage and
+Web maintenance
+Design Reorganization
+Web maintenance
+Web maintenance
+Monitoring price information Monitoring price information Monitoring price information Monitoring price information
+ Investment demand by year (Plan)
+division
+system
+'14
+'15
+'16
+'17 year '18 .6 month
+Within the term of office
+(In millions of Korean won)
+City
+25
+-
+-
+-
+12
+13
+-
+Unit business
+Seoul City
+Price information
+Mobile system
+Development
+ Enforcement amount by year: Not due for enforcement
+ Performance
+Unit business '14
+First quarter
+Q2
+3Q 4Q 1Q 1Q 2Q 3Q 4Q
+'15
+'16
+Seoul City
+Price information
+system
+Development
+-
+Prices
+Information
+Strengthen Building
+relation
+Department
+Conference
+Apps
+Price information
+Building a theme
+continuing
+build
+continuing
+build
+home page
+And Web
+operation
+Price information
+home page
+design
+Reorganization
+home page
+And Web
+operation
+And Web
+operation
+(Price information
+(Price information
+monitoring)
+monitoring)
+- 1045 -
+○ Inflation Information Online Homepage (mulga.seoul.go.kr) Design Reorganization
+- Implementation period: 2016. 3.10. ~ 6.24.
+- Promotion contents: map image of homepage which is old age (produced in 2009)
+Improve with intuitive UI
+- Promotion Course
+· Planning: Identification and improvement of homepage problem (consultation of related departments: 3 times)
+Coordinating department: Information Planning Officer. Information Systems Officer
+· Design: Main / sub-screen design (draft)
+· Development: Main and sub screen design final decision. Program development
+· Contents maintenance: Organize content and organize page-by-page phrases
+· Tested and finalized
+- Promotion result: Reorganization of main / sub screen design and content execution
+main screen
+Grocery Prices> Traditional Market
+향후 Future plan
+'17
+First quarter
+Q2
+Third quarter
+Quarter
+Seoul Waterfront Information
+Homepage and
+Homepage and
+Homepage and
+Homepage and
+Mobile System Development
+Mobile Web Operations
+Mobile Web Operations
+Mobile Web Operations
+Mobile Web Operations
+- 1046 -
+○ Monitoring of agricultural and marine products price survey
+- Monitoring of price information to be inspected by price monitor (43 people)
+Strengthening the provision of inflation information
+○ Maintenance of "Shopping cart price" theme in "Smart Seoul Map"
+- After the problem occurred after the service delivery date ('15 .5), the space information officer
+Improve service by consultation
+Director General of Public Sector Economy: Chun Myung-cheol ☎ 2133-5360 Chairman of the Public Policy Team: Kim Sung-chul ☎5362 Charge: Shin Tae-cheol ☎5366
+Coordination Department Space Information Officer: Cho Bong Yeon ☎ 2133-2830 Director of Spatial Information Development Team: Kim Tae-joon ☎ 2840 Charge: Yi Ik ☎ 2845

@@ -1,0 +1,505 @@
+
+Innovate - borrow your credit card with 66 Citizen cards
+Normal promotion
+Business division
+Within the term of office
+new
+One
+Household amount
+127 million won
+Promotion status
+Total project cost
+Final goal
+○ Public library loans
+Introduced 'Seoul Citizen Card' which can be used conveniently
+ Promotion plan (policy outline)
+○ Ability to enter Seoul Citizen's Card
+- Issuance of public facility membership card such as Seoul Library by mobile card and integrated management
+- Provision of information on public facilities (such as book borrowing, etc.)
+- Payment function such as membership fee payment
+- Demonstrate citizen's administrative demand through big data analysis
+○ Established Seoul citizen card mobile platform
+- Main contents: Mobile card issue and management
+System construction
+- Required budget: 845 million won
+- Construction period: '17
+Unit business
+'14
+'15
+1Q 2Q 3Q 4Q
+'16 years '17 years '18 .6 months after the term
+Informatization strategy
+Plan implementation (ISP)
+Company selection
+Computerized system
+Construction and operation
+TF Team
+Configuration·
+operation
+service
+order
+service
+City
+result
+report
+-
+-
+-
+-
+-
+-
+propel
+direction
+Review
+Business promotion
+plan
+establish
+Authentic
+enforcement
+-
+-
+-
+-
+- 1120 -
+○ Detailed plan for the 16th quarter
+Unit business
+Informatization strategy
+Plan implementation (ISP)
+Company selection
+Computerized system
+Construction and operation
+'16
+First quarter
+Q2
+Quarter
+(Completed in '15)
+-
+-
+-
+System construction related
+Business profitability related
+Business promotion details
+Seoul citizen card platform
+expert
+expert
+Establish an action plan
+Detailed design
+ Investment demand by year
+Unit business
+Within the term of office
+(In millions of Korean won)
+After tenure
+division
+system
+'14
+'15
+'16
+'17 year '18 .6 month
+system
+One
+Informatization strategy
+Plan implementation (ISP)
+Company selection
+Computerized system
+Construction and operation
+sub Total
+National cost
+Fertility
+The
+Civilian
+Etc
+sub Total
+National cost
+Fertility
+The
+Civilian
+Etc
+70
+-
+70
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+70
+70
+-
+70
+-
+-
+-
+-
+-
+-
+-
+-
+-  1121  -
+66
+845
+500
+-
+-
+-
+-
+-
+-
+66
+-
+66
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+845
+500
+-
+-
+845
+500
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ Amount due by year
+division
+system
+'14
+'15
+'16
+'17 year '18 .6 month
+After tenure
+Within the term of office
+(In millions of Korean won)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+(Unit: number of times)
+Unit business
+-
+Plan implementation (ISP)
+Company selection
+Computerized system
+Construction and operation
+system
+sub Total
+National cost
+Fertility
+The
+Civilian
+Etc
+sub Total
+National cost
+Fertility
+The
+Civilian
+Etc
+127
+67
+-
+67
+-
+-
+-
+-
+60
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+67
+67
+-
+67
+-
+-
+-
+-
+-
+-
+-
+-
+60
+-
+-
+-
+-
+-
+-
+60
+-
+60
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+시 Citizen participation performance
+Unit business briefing session
+Informatization strategy
+Plan implementation (ISP)
+Company selection
+Computerized system
+Construction and operation
+One
+-
+-
+-
+14
+29
+5
+-
+-
+-
+○ ISP consulting (7 times) and expert advisory team (3 times)
+○ Advised experts on private partnership projects (6 times)
+○ Mobile Seoul Citizen Card-related specialist consultation (7 times)
+○ Citizen Promotion Evaluation Team Promotion Adjustment Evaluation ('16. October ~ November)
+- 1122 -
+ Performance
+Unit business '14
+Informatization strategy
+Plan promotion
+(ISP)
+Company selection
+Computerized system
+Construction and operation
+-
+-
+'15
+'16
+First quarter
+Q2
+Third quarter
+Quarter
+First quarter
+Q2
+Third quarter
+service
+order
+Report session
+Hold
+(3rd time)
+service
+result
+report
+-
+-
+-
+-
+-
+-
+-
+-
+Credit card
+base
+Seoul
+Citizen Card
+Implementation plans
+establish
+Card company
+expert
+Relevant departments
+Conference
+Card company
+Mobile card
+Professional company
+Advisory and
+Relevant departments
+Conference
+mobile
+platform
+base
+Seoul Citizen
+Card
+Establish policy
+mobile
+platform
+build
+Detailed design
+Service promotion
+○ Seoul citizen card introduction / use TF team formation and operation 4 times
+- Organization: 29 persons (Financial institution
+- Operation: 4 meetings of the Advisory Committee ('14 .10.23 / 11.13 / 12.9 / '15.3.9)
+- Main contents: Business feasibility study
+○ Construction and operation of expert advisory groups in legal and technical fields 3 times
+- Operation: 3 meetings of the Advisory Council ('15 .4 / 5.8 / 7.10)
+- Main contents: Ability to select individual services
+○ Establishment of Information Strategy Plan (ISP)
+- Service organization: Yoon Communications (Contract amount: 5
+- Service period: '15. 2. 25 ~ 6.15
+- Main contents: Promoted as profit-making private business (BTO) under the private investment law
+○ Advised on the introduction of mobile citizen card
+- Advised: BC Card
+- Advisory conduct: 6 times ('15. 8.24 ~ 11.27)
+- Advisory contents: Private partnership business promotion plan
+- 1123 -
+○ A review meeting of related departments related to Seoul Citizen Card ('15.12.1)
+- Attendance: 13 (System integration field 8
+- Main contents: Consultation on measures to be taken when integrating the operation system of each business and citizen card integration system
+○ Advised the person in charge of promoting the Seoul Citizen Card business ('11.
+- Target: Shinhan Card Company
+- Advisory: Integrated system construction
+○ Establishment of Seoul Citizen Card Promotion Plan (Dec. 15, 15)
+- Establishment of a Seoul citizen card integration system (public recruitment), financial burden (about 4 billion won)
+The Seoul Metropolitan Government will provide Seoul citizen card contents,
+○ Integrated card issuance
+Inquiry ('16 .1 ~ 29 ~ 29)
+- Target: 9 companies including Shinhan Card
+- Main contents: Positive position (Shinhan
+○ Advised experts on system integration ('16 .2 ~ 3)
+- Target: Social Security Intelligence Service
+- Main contents: Need to build a system to integrate each business (efficient member DB management and
+Providing easy environment for new business entry)
+○ On-site confirmation of public facility payment system (March 2-3, 2006)
+- Target: 37 cities, municipalities including Han River Park
+- Main contents: Various payment methods (credit, check card
+Various payment methods can be maintained even if cards (credit / check cards) are introduced
+○ Feasibility inquiries such as service composition and calculation of project cost ('23.32 ~ 24, '16)
+- Target: Card company (Shinhan
+Expert (Korea Credit Card Association
+- Main contents: Core service development that can guarantee the business performance of credit card company is needed
+System integrator agrees with card companies
+- 1124 -
+○ 4 times of T / F meeting related to Seoul Citizen Card (from March to May)
+- Target department: Family officer
+Department of Physical Education Policy
+- Consultation on integrated measures such as the need to revise the regulations on the integrated management of existing membership information and discounts on facility use
+Original operator (Woori Card
+August
+○ Consultation on participation of credit card company ('16 .20 ~ 23 ')
+- Advised by: Korea Credit Card Association
+- Main content: Profitability is difficult to guarantee
+○ Server-related
+- Main contents: Seoul citizen card system database server, data center integrated DB
+The principle to use
+○ Service Contents
+Participation inquiry ('16. 6.14 ~ 28)
+- Inquiries: Shinhan Card
+- Main contents: Expected to be in the red;
+Need reduction plan
+○ Feasibility of mobile card business
+- If membership card is integrated into mobile, it will contribute to improvement of citizen convenience
+- Information on the status of public facilities nearby using location-based services
+Need to provide customized information such as program usage time
+○ Survey on the status of municipal and municipal public facilities membership cards (August 2006)
+- 420 locations: 29 municipal offices
+○ Survey on the introduction of integrated management mobile app ('16 .10)
+- Survey target: Public facilities (12 places) Program members 1
+- Survey result: empathy needed to introduce 77.6%
+- 1125 -
+○ Established a policy to promote Seoul Citizen Card based on mobile platform (September 16, 2006)
+○ Mobile platform construction Detailed design service promotion (Daily Software Co., Ltd.)
+- Contract amount: 54
+향후 Future plan
+○ Detailed plan for the quarter of '17
+Unit business
+Informatization strategy
+Company selection
+Construction and operation
+'17
+First quarter
+Q2
+Third quarter
+Quarter
+-
+-
+-
+-
+Establish platform for building platform
+Pilot operation
+Full operation
+○ Seoul citizen card platform construction detailed design service promotion ('16. December ~ '17 .3 month)
+- Survey on environment of operation of member management system by facilities
+○ Established Seoul Citizen Card Platform (Feb. ~ Sep. '17)
+- Mobile card issue and management
+※ Proposal Request and Security Review (February)
+○ Demonstration of the Seoul Citizen Card Platform (October 17)
+○ Operation of Seoul Citizen Card Platform (scheduled for November, November)
+General department
+Department of Local Government Administration: Lim Dong-guk ☎ 2133-5800 Seoul Citizen Card Team Leader: Kim Duk-hwan ☎ 5845 Person in charge: Na Hongju ☎
+5846

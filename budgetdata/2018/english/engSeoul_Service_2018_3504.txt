@@ -1,0 +1,7 @@
+
+Administration Bureau Personnel Department
+General public administration
+Human Resources Management
+○ Business targets: Personnel management system, e-personnel system, everyday record evaluation system, etc. <br> - Business contents <br> - Improvement of functions such as revision of system based on change of operating environment and related guidelines - - Fast recovery process in case of failure - Introduction of DB encryption solution according to the establishment of personal information protection law,
+- Local public official personnel records, statistics and personnel affairs handling rules
+- Local public servants Employment order, local public servant

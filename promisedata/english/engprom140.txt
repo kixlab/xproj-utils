@@ -1,0 +1,347 @@
+
+15-3-3
+Smart in the old traditional manufacturing district
+Manufacture and manufacture as a one-person playground
+Promotion status
+Normal promotion
+Business division
+Within the term of office
+new
+Total project cost
+One
+Household amount
+471 million won
+Final goal
+○ In the old traditional manufacturing district, a smart manufacturing space or a single manufacturer
+Playground composition
+ Promotion plan (policy outline)
+○ Creating a creative ecosystem by creating a smart manufacturing and one-person producer playground
+Network expansion) and information exchange
+- Establishment of business cafe in the industrial support center
+- Common equipments for trial production etc.
+And collaborative work space (creative space)
+- 3 places (Seongsu IT
+Expansion to other industrial support center of development promotion district
+ Annual Plan
+'14
+'15
+1Q 2Q 3Q 4Q
+'16 years '17 years '18 .6 months after the term
+Smart Work
+Center construction
+-
+-
+-
+-
+1 point 1 point 1 point
+-
+-
+○ Detailed plan for the 16th quarter
+Unit business
+Smart Work
+Center construction
+First quarter
+Q2
+Third quarter
+'16
+-
+-
+-
+1 place
+- 821 -
+ Investment demand by year (Plan)
+Unit business
+division
+system
+'14
+'15
+'16
+'17 year '18 .6 month
+Within the term of office
+After tenure
+(In millions of Korean won)
+City 1
+-
+307
+173
+573
+484
+334
+Smart Work
+Center construction
+ Amount due by year
+division
+'14
+'15
+'16
+'17 year '18 .6 month
+After tenure
+Within the term of office
+(In millions of Korean won)
+City
+471
+-
+302
+169
+-
+-
+-
+Unit business
+Smart Work
+Center construction
+시 Citizen participation performance
+(Unit: number of times)
+Unit business briefing session
+Smart Work
+Center construction
+6
+7
+One
+-
+○ Listening to opinions on ETRI's establishment (15.3.17)
+- Participant: ETRI Jo, Ho-Gyun Senior Researcher
+- Main contents: Purpose and Direction of Operation of Establishment Workplace
+○ Holding of Advisory Committee on Operation of Seongsu IT Center
+Pause
+attendants
+Main Content
+'15 .5.20.
+Magic echo Choi Jae-gyu (IoT education consultant)
+Isolunix Ilyu (Consultation on equipment construction)
+- Listen to your business purpose and direction
+- Establishment of facility design plan
+'16 .11.28.
+Former SPAM Yoon Jeong-rok (Consultation on equipment construction)
+Kim, Jeong (S / W Education Consultant)
+Liatek Normanho (IoT Education Advisory)
+Kang Kook University Kang Min Hyung (Field Practice Advisor)
+Angel Investor Cooperative Lee Hyun-joon (Investment Promotion Advisor)
+- Operation of Seongsu Maker Space in 2017
+- Attracting IoT company
+Technical support such as printing
+○ Other institutions operating benchmark space
+Pause
+'15.6.4
+'15 .6.15
+'15 .6.18
+Visiting Organizations
+Seoul Fapab
+Main Content
+- Operational overview
+- Business purpose
+Device Wrap of Match Window
+Gwacheon Wuhan Imaginary Room
+- Facilities and equipment construction status
+- Operating notes
+- Mutual cooperation plan
+○ Consultation of private experts
+Pause
+Group name
+Main Content
+Remarks
+'15 .5.28 (primary)
+'15 .7.9 (Secondary)
+Seoul Digital Doctors Association
+- Maker Space Operation Direction
+'15.7.23
+Hoyu coms
+(IoT training
+Magic Eco
+(IoT platform company)
+- Seongsu Maker Space Operation Direction and Local Tradition
+Collaboration with industry
+- Design of essential equipment
+- Opening ceremony
+- Maker space activation plan
+○ Press coverage (Asia Today) Press (15.9.13.)
+- IoT creative space in Seongsu-dong
+○ Listen to opinions on the operation of Seongsu Maker Space (16.4.11.)
+- Participants: 18 students, including students from Chung Sung University
+- Main contents: Openness to operation
+○ Listening to opinions on the operation of the Seongsu Maker Space Education (16.6.3.)
+- Participants: 14 CEOs and executives from manufacturing and ICT companies
+- Main contents: Knowledge sharing education actively opened
+○ Holding of Advisory Committee on the Operation of Seongsu Maker Space
+Pause
+'16 .1.28.
+16.2.2.
+Visiting Organizations
+Faprap Seoul
+Main Content
+- How to operate
+- Important facilities and equipment operation
+- Mutual cooperation plan
+- 823 -
+ Performance
+Unit business '14
+'15
+'16
+1Q 2Q 3Q 4Q 1Q 2Q 3Q 4Q
+Smart Work
+Center construction
+-
+-
+-
+One
+-
+-
+-
+2 places
+selection
+Furtherance
+propel
+[Seongsu IT General Center]
+- '1 Maker Space' interior work
+Construction period: July 24, 2015. ~ 8.27.
+Location and area: Seongsu IT General Center, 2nd floor (total area 328.52㎡)
+Space configuration: workspace (1)
+- Purchase maker space equipment: 50 kinds
+. Electrical and electronic
+3D printer
+Hacker Tone held by foreigners
+- Date: '15 .8.29 ~ 8.30
+- Venue: Holy water maker space
+- Let's get involved: My foreign software developer, 40 people
+- Contents: Production and Demonstration of Internet Works on Seoul Build Day
+○ External agency-linked education for mass propagation in the Internet of Things (IoT)
+- Association: Korean Internet Society
+- Educational content: How to create IoT products using open source hardware
+Course Name
+Educational Personnel
+Remarks
+12
+16
+18
+21
+30
+25
+13
+Foundation course
+Deepening Process
+Pause
+'15.7.8
+'15 .7.15
+'15.7.23
+'15.7.29
+Learning basic ICT DIY
+Making Arduino-based idiot box
+Printing parts with a 3D printer
+Making Arduino-based RC cars
+'15 .9.16 ~ 10.16 Maker training basic education
+'15 .10.21 ~ 11.11 Maker training DIY deepening training
+'15 .9.16 ~ 10.16 3D printing intensive training
+'15 .11.18 ~ 11.27 Manufacture space equipment training
+- 824 -
+○ Holding IoT Future Industry Forum and IoT Seminar
+Pause
+Event Name
+Attendance
+Remarks
+16.2.19.
+1st IoT Future Industry Forum
+1st Holy Water IoT Seminar
+'16 .4.27.
+'16.7.29.
+2nd Holy Water Maker Space IoT
+seminar
+The 3rd Holy Water Maker Space IoT
+seminar
+'16 .9.27.
+The 4th Seongsu Maker Space Seminar
+16.15.15.
+IoT Future Industry Forum General Meeting
+64
+67
+35
+45
+54
+35
+-
+○ Establishment of internal / external education program
+Pause
+Course Name
+Educational Personnel
+Remarks
+March to December (38 days in total)
+Laser Cutter Basic Equipment Training
+CNC Router Basic Equipment Training
+233
+140
+120
+'16 .5.30. ~ 6.3.
+IoT enrichment training for CEO
+'16 .5.24. ~ 6.16.
+'16 .6.10. ~ 7.11.
+'16 .4.27. ~ 4.29.
+'16 .5.2. ~ 5.4.
+'16 .5.11. ~ 5.13.
+'16 .5.18. ~ 5.20.
+Design tools for 3D printing
+Further education
+Cultivating creative talents
+Courses Aduino Enrichment Training
+Drones production and flying
+'16 .10.11. ~ 10.21.
+Fusion of Drones and Contents
+education
+'16 .11.7. ~ 11.11. Basic Coding Training
+14
+14
+78
+16
+21
+free
+pay
+Seongdong-gu Office
+Cooperative Education
+pay
+free
+○ Meikatson meeting with automobile and IT
+- Time: '16 .7.2. ~ 7.3.
+- Venue: Holy water maker space
+- Let's go: 22 people including automobile / bike workers in Seongsu-dong area
+- Contents: Development of smart accessories for automobiles and motorbikes
+- 825 -
+○ Hold a maker tune for the crowd funding market
+- Time: '16 .10.29. ~ 10.30.
+- Venue: Holy water maker space
+- Let's get started: 10 teams including Internet developers
+- Contents: Production and demonstration of internet works
+향후 Future plan
+○ Detailed plan for the quarter of '17
+Unit business
+First quarter
+Third quarter
+Quarter
+'17
+Establishment of detailed plan for Seongsu IT General Center
+Sustainable operation
+Sustainable operation
+Sustainable operation
+Holy water handmade
+Prototype factory
+Operational space remodeling
+And operational planning
+Opening of prototype factory
+(April)
+Sustainable operation
+Sustainable operation
+Jung-gu printing
+Detailed planning
+Space creation and operation
+Using joint equipment
+Using joint equipment
+(In May)
+Prototype production support etc.
+Prototype production support etc.
+○ Seongsu IT synthesis center 2017 business plan establishment
+- Contents: Operation of Seongsu Maker Space
+○ Construction and operation of prototype factory
+- Project Period: '17 .1.1. ~ 17.12.31.
+○ Establishment of a business plan and creation of a space for the creation of a printing business start-up ecosystem
+- Establish business plan: '17. In March
+- Establishment of open business space (remodeling): '17. April to May
+- Start-up support (Prototype production
+General Manager of Economic Policy Division: Kim Tae-hee ☎ 2133-5210 Director of Urban Manufacturing Team: Song Su-seong ☎ 5232 Charge: Kim Mi-Ra ☎ 5230
+Coordination Department Digital Business Manager: Park Tae-ju ☎ 2133-4750 Digital Business Team Leader: Seung-chul Lim ☎ 4766 Charge: Lee Woong ☎ 4767
+- 826 -

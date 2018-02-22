@@ -1,0 +1,12 @@
+
+Information Planner Information System Officer
+General public administration
+Administrative information system business
+ㅇ Seoul Metropolitan Government and 8 municipalities (Jung-gu, Seongdong-gu, Gwangjin-gu, Seongbuk-gu, Gangbuk-gu, Seodaemun-gu, Gangnam-gu, Gangnam-gu) - Operation management system operation support and maintenance <br> ㅇ Service desk Operation <br> ㅇ Improvement of work management system function (7 tasks including improvement of absence setting function) <br> ㅇ Improvement of work management system enhancement function (7 tasks other than task management function enhancement) <br> ㅇ Change of old equipment Promoting AP migration
+ㅇ Article 25, Annex 3 of the Enforcement Decree of the Public Records Management Act, Article 3
+ㅇ Office Administration Regulations Article 6-2 (Business Management System), Regulations on Classification and Management of Government Functions Article 9
+ㅇ Article 21 and Enforcement Rule Article 19 (Establishment and Operation of Business Management System)
+ㅇ Implementation plan of Seoul Metropolitan Government's Business Management System (November 17, 2009, Information Systems Officer-15807)
+ㅇ Operation management system and upgrading project plan (2017.7.27, Information System Officer-8507)
+ㅇ Establishment of Seoul-based business management system and establishment of BPR / ISP: 2009. 11 ~ 2010. 2. <br> ㅇ Implementation of contract to approve use of On-Nara system work: 2010. 2. <br> ㅇ Integration of electronic document ㅇ The source of the system of the whole country system (original) and the acquisition of the output: 2010. 5. - ㅇ Establishment of the basic plan for the establishment of Seoul-type business management system 251, 2010. 5.)
+ㅇ Establishment of ISP and establishment of foundation: 2009.12 ~ 2010. 2. <br> ㅇ Phase 1: 2010. 8 ~ 2011. 4. <br> ㅇ Phase 2: 2011. 8 ~ 2012. 2. <br> ㅇ Advanced: 2012 5 ~ 2016.11. - ㅇ Operation management system and integrated maintenance of city area: 2016.1 ~ 12. - Integrated maintenance target 6 autonomous regions (Jung-gu, Seongdong-gu, Seongbuk-gu, Seodaemun-gu,

@@ -1,0 +1,8 @@
+
+City Traffic Division Traffic Information Section
+Transportation and Transportation
+Construction of scientific transportation operating system
+○ GPS system for collecting traffic information, which is constructed and operated in order to collect real-time traffic information in Seoul city from the Seoul Metropolitan Government Integrated Traffic Information Center, electronic situational system for traffic management in Seoul, collected and processed traffic CCTV video internet system to provide information to citizens who need information, maintenance improvement project to effectively operate traffic information broadcasting ○ ○ GPS server, data management and patrol car, 4,700 terminals repair and detachment management
+Article 145 of the Road Traffic Act (provision of traffic information)
+Article 145-2 of the Road Traffic Act (Article 145-2 Broad Traffic Information Business)
+- '01. 12 Introduction of multi-cube situational system - <br> '02. 3 Establishment of CCTV video internet service system - '03. 5 GPS 1,300 units (traffic correspondence) installation, traffic information collection - '03. 4 Reinforcement of traffic announcement function and NMS establishment - '04. 2 GPS 800 units (145 patrol cars, 655 model drivers) Additional installation, traffic information collection and emergency situation system - <br> '04.

@@ -1,0 +1,10 @@
+
+Data Center Planning and Management Division
+General public administration
+System maintenance
+○ Business contents: Maintenance of information system - - Resilient maintenance management system for major system for effective prevention and restoration - Establishment of quick response system - <br> - Establishment of professional technical support system for strengthening system stability - Establishment of system of original manufacturer (three shifts) for prompt response and technical support capability -
+○ "Seoul City Information System Integration Promotion Plan (Vice Mayor Policy No. 98 / 2003.2.14)
+○ Information system maintenance integrated management plan (Oct. 26, 2003)
+○ Establishment of information system maintenance management plan for 2017 ('16.
+○ Conduct integrated maintenance contracts for each information resource (server, storage, DBMS, backup equipment, system S / W, etc.), including back-office and front office of data center. ○ Data center back office and Establish countermeasures against faulty processing of IT resources of front office. ○ Perform smooth operation of IT resources of data center back office and front office and normal system operation by timely parts replacement
+○ 2016.09 ~ 2016.10: Establishment of business plan, drafting of proposal, deliberation ○ ○ 2016.11 ~ 2016.12: Business order and tender announcement, technology evaluation and negotiation ○ 2017.01 ~ 2017.12:

@@ -1,0 +1,5 @@
+
+City Planning Bureau Land Management Division
+Territorial and regional development
+Establish infrastructure for efficient land management
+- Maintenance of GPS satellite reference station and network RTK system - · Real-time surveying of parcel boundaries using satellite -> Operation of network RTK homepage (http://gnss.seoul.go.kr) br> - Providing real-time data and latest information on GPS satellite reference station - Korea Land Information System commercial S / W (4 kinds) maintenance

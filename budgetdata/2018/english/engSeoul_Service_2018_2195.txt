@@ -1,0 +1,9 @@
+
+Information planner Information planner
+General public administration
+Stable support of information service
+○ Introduced unstructured text data analysis engine to provide related keyword search function. ○ Search engine optimization by reinforcing metadata such as keywords on municipal information. ○ Provide convenient interface for users and administrators of integrated web site in Seoul city website. ○ Integration of social comments service in Seoul city homepage ○ Introduction of data migration path analysis system and real-time event processing system, and external expert web log analysis service
+○ 2016 homepage search system enhancement plan (2016.7)
+○ 2016 Social Comment Service Operation Plan (2015.6)
+○ Seoul City website usage analysis system introduction plan (2015.6)
+○ Establishment of integrated search portal system in Seoul website: '08 .9 ~ - ○ Introduction and operation of integrated bulletin board service in Seoul city website: '09. 7 ~ ○ Introduction and operation of web log analysis system: '10 .9 ~ 15.7 current

@@ -1,0 +1,13 @@
+
+City Traffic Division Traffic Information Section
+Transportation and Transportation
+Establish scientific transportation operation system (traffic management account)
+○ Business contents: Transportation network operation and monitoring, center system / on-site equipment check and disaster recovery.
+○ Grounds for statute
+- Article 145 (provision of traffic information) of the Road Traffic Act and Article 145-2 (wide area traffic information business)
+- Article 35 (provision of facilities) of the Telecommunications Business Act and Article 64 (establishment of self-telecommunication facilities)
+○ Other grounds (policies, guidelines, etc.)
+- Review of UTIS (May 31, 2005)
+- U-Traffic Information Network Infrastructure Construction Plan (June 16, 2009)
+- Seoul Metropolitan Police Agency's UTIS Network Acquisition and Operation Plan ('13.
+○ '06. 2. ~ '10. 5. Promotion of UTIS construction project - ○ '09. 9. ~ '11 .12. Construction of U-transportation network (Jung-gu, Mapo, Yeongdeungpo, Seocho) 1. Acquisition of Seoul Metropolitan Police Agency's UTIS communication network and enforcement of third UTIS project - '13 .12. Moving to UTIS Center System for Management Efficiency in Seoul - '14. 4. ~ '15 .10. Operation of transportation network and maintenance service

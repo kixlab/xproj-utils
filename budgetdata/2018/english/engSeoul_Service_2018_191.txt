@@ -1,0 +1,9 @@
+
+Finance Department Tax Affairs Section
+General public administration
+Efficient management of revenue-related computerized system
+○ Tax System Comprehensive System Operation & Maintenance / Tax System Comprehensive System Addition & Complement Development - System S / W Maintenance - Tax Completion & Support System Quick Repair & Response in case of trouble - DB Access Control & Encryption Solution implementation, application of encryption module to taxation synthesis - Data processing scale: about 1.2 billion (taxation data for 10 years) <br> - Over 100 million cases of data annually <br> - 1,700 tables, 2.5T DB
+○ 2012 tax system comprehensive system operation and maintenance promotion plan "Treasurer director policy 2011.7"
+○ Provision of the preliminary procedure: The result of reviewing the feasibility of budget for the IT project in 2012
+- Requirement 1,296 million won ⇒ Adjustment approval 1,092 million won (Information Planning Officer, July 28, 2011)
+○ Establishment of system operation and maintenance service plan: Dec. Jan. ○ Selection and contract of service provider: Dec. Feb. ○ Additional development and maintenance of system: March to March,
