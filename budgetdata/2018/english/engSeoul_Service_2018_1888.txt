@@ -1,0 +1,10 @@
+
+Information Planning Officer Space Information Officer
+General public administration
+Advanced citizen information service
+○ Project Period: 2017.1.1. ~ 2017. 12.31. (12 months) ㆍ Required budget: 123,700 thousand won ○ Business contents - - Barrier-free DB creation for social weak person - - Contents of Seoul map website Current and stable system operation
+○ Article 21 of the Act on the Prohibition of Discrimination against Persons with Disabilities and the Right to Remedy of Rights (Obligation to provide legitimate convenience in information and communication) and Article 53 (Support for Independent Living)
+○ Performance improvement and operation project plan of Seoul map homepage for 2015 ('15 .23. ')
+○ Plan to improve the contents of Seoul map website in 2016 ('16 .16.
+○ '03 .1 ~ 7 Establishment of business plan and ISP execution ○ ○ '03 ~ '09 Establishment of Seoul GIS portal system infrastructure - ○ 09 ~ '11 Seoul GIS portal system function enhancement - ○ '11 ~ '13 Establishment of Seoul map based on cooperation and communication
+○ Additional production of barrier-free API

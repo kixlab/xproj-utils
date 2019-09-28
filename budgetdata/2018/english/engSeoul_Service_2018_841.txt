@@ -1,0 +1,11 @@
+
+Information Planning Officer Statistics Data Officer
+General public administration
+Implement preemptive scientific administration using Big Data
+- Demand-based data search and collection / loading / linking - - Replacement of commercial data through acquisition and processing of similar data - Data service (map, extraction) for analysis required data search / utilization - Common Implement big data analysis function on utilization data - Introduction - Open source introduction and introduction - Maintain commercial SW - Open data database by data type - Implement data data transfer and data processing middleware function - Exploratory analysis
+○ Seoul Big Data Utilization Basic Plan (2013.4.20, Market Policy No. 105)
+○ Seoul Metropolitan Government Super-Cooperative e-Government Comprehensive Plan (May 29, 2013, Market Policy No. 141)
+○ Seoul Metropolitan Government's Open Government 3.0 Comprehensive Plan (May 17, 2013, Market Policy No. 173)
+○ Market requirements (Please promote municipal innovation using big data, mobile, etc. in 6th quarter of 2014.6.18)
+○ Establish a basic plan for using big data in Seoul: '13. 4 <br> ○ Big Data Sharing · Utilization foundation promotion project: '13 .10 ~ '14. 2 <br> ○ Seoul Big Data Sharing / Utilization Platform Project: '14. 7 ~ 15. 2 <br> ○ Seoul Big Data Sharing Utilization Platform Development: '15 .10 ~ '16 .5 ○ Citizen Utilization Big Data Share Utilization Platform Construction Project: '16 .6.13
+○ Execution Procedure - Establish basic plan (city) → Bidding notice → Contract by negotiation → Execution of business → Report of completion of business → Execution of business expense

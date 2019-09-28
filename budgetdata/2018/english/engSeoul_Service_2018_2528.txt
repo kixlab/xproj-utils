@@ -1,0 +1,11 @@
+
+Information Planning Officer Space Information Officer
+General public administration
+Integrated spatial information management
+○ Unmanned aerial photographing - Unmanned aerial photographing (500m × 500m, flywheel unmanned aerial photograph) 10 times - Unmanned aerial photographing (1,000m × 1,000m, fixed aerial aerial photograph) 10 times
+○ Market requirements ('05.02.02)
+- Review plans to use Seoul drones for policy reference
+○ Responding to the rapidly changing spatial information technology and raising the need for industrial revitalization
+- Basic plan of real-time air monitoring system construction ('15.07.07)
+○ '15 .06.02 Market request matters - ○ '15.07.07 Establishment of basic plan for construction of real-time air monitoring system
+○ Demonstration of real-time aerial monitoring application system - Establishment of requirements analysis and basic design and development strategy for efficient application system construction - Implementation of common (basic) function of application system - Application system information and image processing < br> - Application System Data Management

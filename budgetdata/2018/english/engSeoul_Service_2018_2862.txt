@@ -1,0 +1,9 @@
+
+Data Center Planning and Management Division
+General public administration
+System equipment replacement and reinforcement
+○ Back-office: 35 servers, 8 other equipments (5 storage, 2 switches, 1 other) - Front-side: Server, storage, switch, Office: 48 servers, 11 other equipments (7 storage, 4 switches) etc. ○ New business target: 11 departments, 21 businesses Total 78 servers, storage, etc. - 66 servers, 4 storage units, 2 backup units, 6 switches, etc. ○ Built-in redundancy: 9 units (2 back-office units,
+○ Seoul Metropolitan City IT Resource (H / W) Budget Improvement Plan (Information Resource Management Division -1969, June 15, 2010)
+○ Information resource integration and infrastructure improvement plan (Operation 1 -2569, Aug. 8, 2011)
+○ '08. 08. 11: Informatization Strategic Plan for Green Data Center Construction - 04. 12: Report on the results of information infrastructure integration and system reinforcement project in 2014 - ○ '15. 06. 10: Seoul Metropolitan City IT Resource (H / W) Budget Improvement Plan (H / W budget is batch-organized in data center) 06. 12: Notification of change in IT budgeting method for IT business (H / W) - ○ '16. 05. 27: Promotion of information infrastructure integration infrastructure project
+○ 2017.1 ~ 2: Establishment of detailed business plan ○ 2017.1 ~ 3: Security review, proposal request review, contract review ○ 2017.4 ~ 5: Contract request, Proposal Evaluation, Negotiation, Contract Signing ○ ○ 2017.6 ~ 12: Business promotion (equipment introduction and installation, inspection)

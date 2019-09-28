@@ -1,0 +1,10 @@
+
+Information planner Information planner
+General public administration
+Stable support of information service
+○ Systematic management of public apps in Seoul - Management of public app life cycle (Planning → Development → Registration → Verification → Distribution → Operation → Discard) - Procedures for processing public apps in Seoul according to revised guidelines and work environment "Execution <br> - Feasibility of app service <br> Prevention of development of public apps through technology review <br> - Securing identity of public app in Seoul and improving utilization rate through application registration and distribution through Seoul integrated account
+○ Mobile e-government service management guideline (Security Administration Regulation No. 70, '14 .1.21)
+○ Seoul City Mobile App Promotion Promotion Plan (U-City Promotion Officer-4,394, December.25.25)
+○ Public application management enhancement plan of Seoul (Space Information Officer -5668, April 28, 2008)
+○ 14.4 ~ ~ 15.2: Improvement of management through contract of public application registration service contract of Seoul City - Establishment procedure of public apps business promotion process (6 steps) Integrated account management and application registration and distribution expansion by store - <br> - Opening of public application registration management program in Seoul (http://pubapp.eseoul.go.kr) Effective management of information registration, <br> - Survey on public apps in Seoul
+Not applicable

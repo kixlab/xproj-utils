@@ -1,0 +1,13 @@
+
+Data Center Planning and Management Division
+General public administration
+System maintenance
+○ Business contents: maintenance management of salary management system in Seoul (such as the 17th year-end settlement tax revision tax law complementary development)
+○ Grounds for statute
+- Article 30 of Electronic Government Act (electronic management of administrative knowledge)
+- Regulations on the remuneration of local public servants,
+- Income Tax Law and Enforcement Decree (Year-end Settlement), Public Employee Pension Act, National Health Insurance Act (contribution, health insurance)
+○ Other grounds (policies, guidelines, etc.)
+- 2016 Payroll Management System Maintenance Plan (May 2015)
+○ 97. 8. ~ 98. 12. Redevelopment of salary management system in Seoul (Delphi, C / S) 1. Improvement of salary management system function in Seoul (year-end settlement, payroll addition) - ○ ○ 14. 7. Integrated rehabilitation plan for salary management system in Seoul - ○ 15. 7 ~ 16. 9. Redevelopment of payroll management system (Java, Web) - ○ 16. 7 ~ '16 .12: (New) Stabilization of pay management system and improvement of accuracy etc.
+○ Business plan and order: 2017.01 ~ 2017.02 <br> ○ Evaluation and contract of proposal: 2017.02 ~ 2017.03 - ○ Business performance: 2017.04 ~ 2018.03

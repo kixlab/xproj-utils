@@ -1,0 +1,8 @@
+
+Administration Bureau Self-government Administration Division
+General public administration
+Cooperation between cities and autonomous regions
+- Roads of "Road, Road" grade are set consecutively in city, county, and province. - - Setting of flag and end point: There are many cases where the road is changed even though it is a continuous road. - - - In addition to the requirement of establishing dependent roads (10 buildings → 20 buildings and less than 100m in length) - Roads: "Roads, roads" Strictly apply the "road" hierarchy
+- In accordance with the rules on the criteria for the burden of local governments under Article 33, Paragraph 1 of the Enforcement Decree of the Local Finance Act, the government subsidy charges 30% for Seoul and 79% for autonomous regions
+- The current address-based addressing system introduces an address system based on the internationally commonized road system as the location information search function is lost due to the discontinuity of the station number, unpredictability, etc.
+- Establishment of road section and road name review - Construction of computerized database - - Installation of facilities - Promotion of new address notification and notification

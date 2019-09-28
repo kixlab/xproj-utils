@@ -1,0 +1,309 @@
+
+15-4-1 Wi-Fi zone construction all over Seoul
+Promotion status
+Normal promotion
+Business division
+Within the term of office
+continue
+Total project cost
+10
+Household amount
+6
+Final goal
+○ Floating population concentrated public wireless Internet 10
+○ 7
+ Promotion plan (policy outline)
+○ In areas where there is a lot of floating population, our city concentrates on its own business.
+- Location: Attractions
+- Method: Seoul city and three mobile telecommunication companies cooperate
+△ Seoul: Providing self-communication network and facilities / Mobile communication: Providing and operating AP
+Option 1: Area with Seoul's own communication network
+- Installation of Seoul Metropolitan City + 3 mobile communication APs
+※ budget of Seoul city due to self wireless network configuration and provision of facilities
+Option 2: Area without Seoul's own communication network
+- Administrative support in Seoul + Installation of telecommunication network and AP for mobile communication
+※ Wireless communication network provided by mobile carrier does not cause Seoul budget
+○ Expansion of multi-use facilities
+- Inside the city bus
+○ Project Period: '11. July ~ '17. December
+- 842 -
+ Annual Plan
+Unit business
+'14
+'15
+1Q 2Q 3Q 4Q
+16 years 17 years 18 June
+term of office
+after
+Public wireless
+Internet
+Expansion of infrastructure
+(Accumulated)
+City bus
+Wi-Fi
+build
+(Accumulated)
+3
+-
+-
+-
+351
+-
+-
+4
+8
+10
+-
+4
+7
+7
+※ Local buses are being promoted on a non-budget basis through the bus transportation business association of Seoul.
+○ Detailed plan for the 16th quarter
+Unit business
+'16
+First quarter
+Q2
+Third quarter
+Expansion of Public Wireless Internet Infrastructure
+Build city bus WiFi
+-
+-
+-
+-
+-
+ Investment demand by year (Plan)
+Within the term of office
+Quarter
+One
+-
+(In millions of Korean won)
+After tenure
+Unit business
+Public wireless
+Internet
+Expansion of infrastructure
+City bus
+Wi-Fi
+build
+division
+system
+'14
+'15
+'16
+'17 year '18 .6 month
+system
+10
+4
+One
+2
+City 10
+4
+One
+One
+2
+Non-budget
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+- 843 -
+ Amount due by year
+Unit business
+public
+Wireless Internet
+시 Citizen participation performance
+Within the term of office
+(In millions of Korean won)
+After tenure
+division
+system
+'14
+'15
+'16
+'17 year '18 .6 month
+system
+6
+3
+One
+One
+City 6
+3
+One
+One
+-
+-
+-
+-
+(Unit: number of times)
+Public wireless internet
+Expansion of infrastructure
+-
+-
+-
+27
+-
+○ Major media coverage
+- '16. 2. 23 SBS Seoul "free WiFi in all public places from next year"
+- '16. 2. 23 DAILY CENTER Free wi-fi operation throughout public places in Seoul
+- '16. 2. 23 Digital Times Seoul
+- '16. 2. 23 Korea's Economic World Digital Capital
+- '16. 2. 23 YTN News Seoul All Public Places
+- '16. 2. 23 Money Today Seoul's 'Free Wi-Fi' ... Digital Capital Makes
+- '16. 2. 23 MBN Seoul subway, bus, public place 'free of charge
+- '16. 2. 23 Chosun Ilbo Seoul City
+- '16. 2. 24 Dong-A Ilbo Seoul All public places
+- '16. 2. 23 Kyunghyang Newspaper Seoul public place free WiFi ... digital waterway
+- '16. 2. 23 Kookmin Ilbo Seoul Free Wi-Fi in all public places ...
+- '13. 4. 16 Electronic Newspaper KT-Seoul
+- '13. 5. 29 EBN Seoul WiFi 'Fang! Fang!' Deriving the best public wifi zone
+- 844 -
+- '13. 9. 5 Dong-A Ilbo Wi-Fi area expanded to 10,000
+- '12. 7. 16 Digital Times Seoul City
+ Performance
+Unit business
+'14
+'15
+'16
+1Q 2Q 3Q 4Q 1Q 2Q
+Third quarter
+Quarter
+Public wireless
+Internet infrastructure
+expansion
+(Accumulated)
+City bus
+3
+-
+Build WiFi
+-
+-
+(Accumulated)
+-
+-
+○ Public Wi-Fi Status
+- yearly
+-
+-
+-
+-
+8
+-
+-
+WiFi installation business
+Negotiation of promotion plan
+City
+WiFi installation business
+Practical consultation
+Promotion request
+City
+(City → bus combination)
+Bus combination)
+division
+system
+'11 '12 '13 '13 '14 '15
+'16
+'17
+Performance
+(Installation number)
+8
+327
+935
+One
+-
+- by installation area
+division
+system
+Main street
+tradition
+market
+Square Park Culture Tourism
+Bus
+Boarding station
+Welfare facility
+public
+Agency
+Quantity
+(Area / number of APs)
+2
+○ Selected as the top 10 news in Seoul ('13
+- 845 -
+○ Seoul Wi-Fi users continue to increase
+Gbps
+3
+2.5
+1.5
+One
+0.5
+0
+Trend of u-wireless network traffic
+1.9
+2.5
+1.1
+1.3
+`13 years
+`14 years
+`15 years
+`16 years
+향후 Future plan
+○ Detailed plan for the quarter of '17
+Unit business
+'17
+First quarter
+Q2
+Third quarter
+Quarter
+Public wireless internet
+Who should install in 2017?
+Expansion of infrastructure
+Performance analysis and public hearing
+2017 business order and
+enforcement
+2
+City bus
+Build WiFi
+Business order
+Pilot project
+(50s)
+Expanded installation
+7
+('16 full years
+Number of local buses)
+<Expansion of Public Wireless Internet Infrastructure>
+○ Selection of installation location through analysis of big data centered on areas with large current population
+- Attractions
+- Final settlement place confirmation by analyzing the floating population big data
+- Maximize existing infrastructure such as own network, CCTV holding, power supply
+○ Construction of parallel internet infrastructure (IoT)
+- Establishment of specialized zone for business area and many tourist around 2017
+○ Local government assistance programs for the underprivileged
+- Neighborhood Parks in Information-Free Areas with Low Financial Self-Reliance
+- 846 -
+○ Continuous Quality Control Implementation
+○ Reinforcing the Wi-Fi Zone
+- Emblem emblem of Seoul Wi-Fi
+- Detailed map
+Emblems and signs
+GIS Map
+○ Detailed schedule
+- Public wireless Internet demand survey
+- Completion check for current public Wi-Fi quality control: '17. February to July
+- Public hearing to establish public wireless Internet development plan in the future: '17. April to May
+- Public wireless internet facility construction and purchase order
+: '17. May to June
+- Public wireless internet installation and service
+: '17. July to November
+<Local Bus WiFi Construction>
+○ In cooperation with the Bus Transport Business Association of Seoul, it will be installed on the entire city bus in '17.
+- About the selection and procedure of the business operator In consultation with the bus transportation business association of Seoul Metropolitan City
+Is
+General department Information security officer: Park, Ung Soo ☎ 2133-2860 Information and communication planning team leader: Lee bang ☎2862 Charge: Kim Nam ☎ ☎2863
+Cooperation department
+Bus Policy Manager: Lee Sang-hoon ☎ 2133-2260 Operations Manager: Lee Jung-mim ☎ 2286 Charge: Onsun Hyun ☎ 2288
+- 847 -

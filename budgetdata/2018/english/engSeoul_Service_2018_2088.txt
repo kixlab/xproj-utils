@@ -1,0 +1,10 @@
+
+Waterworks business headquarters planning budget section
+Environmental protection
+Establishment of scientific facility management system
+○ Business contents - Measurement and DB construction of waterworks facilities to secure accurate location information of waterworks facilities based on the world geodetic system - ※ 80mm or more ducts (excluding water supply pipes): 10,543 km
+○ Promotion basis
+- Regulations on the Establishment and Utilization of the Geographical Information System of Seoul Metropolitan City Article 5
+- Phase 3 Seoul GIS Basic Plan established ('06 .12 ~)
+- Improvement of GIS DB accuracy of waterworks project ('12.22 '08)
+- Promotion of GIS project in Seoul - '98 .08: Basic plan of construction of GIS in Seoul - '98 .08: Establishment of GIS project plan in Seoul - '98 .12: Launch of waterworks GIS construction project - '04 .09: Waterworks Establishment of comprehensive maintenance plan for GIS DB - '05 .07: Implementation of GIS DB maintenance project for waterworks - '07 .06: Second implementation of GIS DB maintenance project for waterworks - '08 .08: Support for state aid (500 million won) Additional order execution

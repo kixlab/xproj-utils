@@ -1,0 +1,318 @@
+
+13-1-5
+Citizen mobility through big data analysis
+Operation of the MM Center
+Promotion status
+Normal promotion
+Business division
+Within the term of office
+new
+Total project cost
+60 million won
+Household amount
+55 million won
+Final goal
+○ Realization of citizen's mobile care service centered on walking without any discrimination
+ Promotion plan (policy outline)
+○ Establishment of foot traffic portal services centered on pedestrians and traffic weak
+- Gathering and analyzing various gait information to provide gait portal service
+Improvement centered on pedestrians and traffic disadvantaged citizens demand
+- wheelchair users
+○ One Click
+- Connected with 120 Dasan Call Centers for those who have difficulty using the Internet
+One-call professional counseling service
+- Citizens' requests for walking information (120 consultation histories, etc.)
+Walking traffic portal service and 120 Dasan call center application after collecting and analyzing walking information
+Unit business
+'14
+'15
+1Q 2Q 3Q 4Q
+'16 years '17 years '18 .6 months after the term
+Walking traffic portal service
+Development and provision
+Walking space
+DB analysis
+Walking space
+DB analysis
+Private portal
+analysis
+Citizens Mobility Care Center
+Pilot construction and operation
+-
+-
+120 Dasan
+Call center
+Status Analysis
+Expert Advisory
+·
+Informatization Strategic Plan
+(ISP) establishment
+Building walking information service
+service
+enforcement
+120 Dasan Call Center Connection
+And pilot operation
+operation
+- 736 -
+○ Detailed plan for the 16th quarter
+Unit business
+Walking traffic portal service
+Development and provision
+Citizens Mobility Care Center
+Pilot construction and operation
+First quarter
+Q2
+Third quarter
+Quarter
+'16
+ISP service result
+Pedestrian accident data
+Final announcement
+Link
+-
+Pedestrian accident related
+ Investment demand by year (Plan)
+Unit business
+Standing traffic portal
+Bis
+Development and provision
+Citizen Mobility Care
+center
+Pilot building and
+operation
+division
+system
+sub Total
+National ratio
+City
+District
+Civil
+Etc
+ Amount due by year
+Unit business
+Standing traffic portal
+Bis
+Development and provision
+Citizen Mobility Care
+center
+operation
+division
+system
+sub Total
+National ratio
+City
+District
+Civil
+Etc
+system
+60
+60
+-
+60
+-
+-
+-
+system
+55
+55
+-
+55
+-
+-
+Within the term of office
+'14
+'15
+'16
+'17 year '18 .6 month
+After tenure
+(In millions of Korean won)
+-
+-
+-
+-
+-
+-
+-
+60
+60
+-
+60
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Within the term of office
+'14
+'15
+'17 year '18 .6 month
+After tenure
+(In millions of Korean won)
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+55
+55
+-
+55
+-
+-
+-
+- 737 -
+시 Citizen participation performance
+Unit business
+Presentation
+(Unit: number of times)
+One
+-
+-
+One
+Walking traffic portal service
+Development and provision
+Citizens Mobility Care Center
+Pilot construction and operation
+ Performance
+'15
+Third quarter
+Quarter
+Unit business
+'14
+Walking traffic portal service
+Development and provision
+Citizens Mobility Care Center
+Pilot construction and operation
+Walking space
+DB analysis
+First quarter
+Walking space
+DB analysis
+-
+Q2
+Private portal
+Expert Advisory
+·
+Informatization Strategic Plan
+(ISP) establishment
+120 Dasan Call Center
+Company briefing session
+Status Analysis
+Unit business
+Walking traffic portal service
+Development and provision
+Citizens Mobility Care Center
+Pilot construction and operation
+'16
+First quarter
+Q2
+Third quarter
+Quarter
+ISP service result
+Pedestrian accident data
+Final announcement
+Link
+-
+Pedestrian accident related
+Homepage Service
+○ '14. 8: Deliberation on the appropriateness of the budget
+- Establishment of IT budgeting plan (ISP) budget in 2015 (60)
+※ ISP (Information Strategy Planning): Information system planning
+A work that illuminates the overall perception of the situation and the goal to be directed
+○ '14. 8 ~ 15. 6: Examination of planning method of data linkage of walking space of Ministry of Land Transportation
+- The Ministry of Land, Infrastructure and Transport's walking space data is being upgraded after the December 13 distribution.
+No plans for the future → No connection with this project
+- 738 -
+○ '15. 4 ~ 15. 6: Reviewing plans to link private portal and 120 Dasan call center
+⇨ Private Naver
+120
+31 traffic counselors consulted on civilian walking information
+○ '15. 7.17. : Expert Advisory Meeting
+○ October '15: Next
+【Presentation result】
+∘ It is already in operation for the nationwide pedestrian-related services.
+Less useful even when providing walking-related data
+∘Providing services from the public to the walking area is redundant with the private sector
+○ Dec. Dec: Completion of information strategy planning (ISP) service
+【Service result】
+∘ Gait DB and walking information provision service are private
+Investing in the city has problems such as redundancy.
+Therefore,
+It is sufficient to fulfill the pledge by simply implementing the walking information service using private information
+⇨ Do not build a new MM Center
+○ '16. March: Linkage of pedestrian accident information and service development
+○ Dec. '16: Completion of development of pedestrian accidents
+- 739 -
+향후 Future plan
+○ Detailed plan for the quarter of '17
+Unit business
+Walking traffic portal service
+Development and provision
+Citizens Mobility Care Center
+Pilot construction and operation
+First quarter
+Q2
+Third quarter
+Quarter
+'17
+Pedestrian Accident
+Homepage Service
+open
+-
+Walking related to Seoul Festival
+Service Development
+-
+○ '17. Jan: Implemented homepage service for pedestrian accidents
+✧ Cooperation with other organizations (central government, etc.)
+○ Walking DB information provision consultation: Next cacao
+○ Walking Information Center - 120 Dasan Call Center Coordination: Citizen Service Officer
+General Division Traffic Information Section: Lee Kyung Soon ☎ 2133-4950 Traffic Information Team Leader: Kim, Myeong-soon ☎4952 Charge: Jin-gu Kim ☎4952
+- 740 -

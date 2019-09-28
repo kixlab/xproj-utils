@@ -1,0 +1,12 @@
+
+Data Center Planning and Management Division
+General public administration
+System equipment replacement and reinforcement
+○ Replacement of obsolete information communication equipment (data center backbone, 18 L3 switch, 27 L4 switch, 11 L2 switch)
+○ Grounds for statute
+- E-Government Act Article 52 (Construction of Information and Communication Network)
+○ Other grounds (policy, guidelines, etc.)
+- Mid- to long-term plan of reinforcement of information communication switch (Operation 2 -2987, 2012.7.26./ Policy of Information Planning Director)
+- Network construction guidelines for implementing a secure information and communication environment (NIS-1383)
+○ Introduction of information and telecommunication equipments by year of increase in information system - Before 2009: 50 units, 2010: 60 units, 2011: 12 units, 2013: 32 units, 2015 39 units, 2016: 4 <br> <br> ○ Increase in bandwidth of major information communication network due to increase in traffic <br> - Citizen Internet: Increase in 1Gbps 1 → 1Gbps in 2 lines Increase in business desire: 716Mbps → 1,210Mbps 2016)
+○ 2017.01 ~ 2017.02: Establishment of business plan - ○ 2017.03 ~ 2017.05: Business order and contract - ○ 2017.06 ~ 2017.12: System installation and inspection

@@ -1,0 +1,178 @@
+
+Civic -1 mobile safety guard
+Promotion status
+Continue after implementation
+Business division
+Within the term of office
+new
+Total project cost
+Final goal
+A non-budget business
+Household amount
+-
+Provide real-time response manuals for each disaster situation
+ Promotion plan (policy outline)
+○ Commitment contents
+- Mobile manual provided ⇒ Mobile app · Web (safety stepping stone
+▸ Mobile apps: 108 disaster information contents (National Security Agency) including 55 kinds of national action tips
+▸ Mobile Web: Disaster Situation
+- Mobile emergency situation matrix application creation ⇒ Mobile situation management system operation
+▸ Implementation of situation propagation and information sharing system using SNS ('14 .6)
+► Operation of disaster response SNS-based group response system ('14 .7)
+► Expert group by disaster area
+▸ Operation of SNS account for participation in conversation with citizens ('15 .1)
+- Operate mobile situation team in general situation room
+▸ Operation of the mobile situation management team ('14 .8 ~ 11) ⇒ Prepare mobile situation management manual etc.
+○ Project Period: '14 ~ June '18
+ Annual Plan
+Unit business
+'14
+mobile
+Provide manual
+mobile
+Situation management
+system
+making
+system
+build
+.operation
+'15
+1Q 2Q 3Q 4Q
+'16 years '17 years '18 .6 months after the term
+-
+-
+-
+offer
+offer
+offer
+offer
+operation
+operation
+operation
+operation
+operation
+operation
+operation
+include)
+-
+-
+- 1267 -
+○ Detailed plan for the 16th quarter
+Unit business
+Mobile Manual
+offer
+Mobile Situation Management
+system
+'16
+First quarter
+Q2
+Third quarter
+Quarter
+offer
+operation
+offer
+offer
+operation
+offer
+operation
+투자 Annual investment demand: non-budget business
+ Execution amount by year: Non-budget business
+시 Citizen participation performance
+Unit business briefing session
+mobile
+Situation management system
+One
+-
+One
+-
+-
+(Unit: number of times)
+○ Listened to the proposal details of the citizen's pledge proposal ('14 .9.1)
+○ Citizen's pledge action plan discussion forum ('14 .9.15)
+○ Number of mobile reports received: 32 ('16.12.31 ')
+ Performance
+Unit business
+'14
+'15
+'16
+mobile
+manual
+offer
+offer
+offer
+offer
+offer
+offer
+offer
+offer
+offer
+offer
+mobile
+Situation management system
+system
+build
+operation
+operation
+operation
+operation
+operation
+operation
+operation
+operation
+○ Mobile manual provided
+- Mobile App: Disaster Characters
+- Mobile Web: Disaster Status
+<Mobile Apps>
+<Mobile Web>
+○ Establishment and operation of mobile situation management system
+- Establishment and operation of information sharing system using SNS ('14 .6)
+- Operation of group response system using SNS in disaster area ('14 .7)
+- Operation of mobile situation management team ('14 .8 ~ 11) ⇒ Prepare mobile situation management manual etc.
+- Establishment of mobile situation management operation plan ('14 .12) and pilot operation ('15 .1)
+- Operation of mobile situation management system ('15 .2)
+► Operation of the General Situation Office Mobile Situation Team
+            . Reception desk: KakaoTalk for PC
+            . Assignee: Designate worker by team (24 hour service)
+            . Service: KakaoTalk's response to complaints and emergency community composition
+w KakaoTalk ID: Seoul119 (used when a citizen adds a friend)
+w Participation in Urgent Community Disaster experts in Seoul: 73 people (20 people installed kakko)
+► Situation management from mobile disaster to the end of the situation
+- 1269 -
+향후 Future plan
+○ Detailed plan for the quarter of '17
+Unit business
+'17
+First quarter
+Third quarter
+Quarter
+Mobile Manual
+Strengthen your mobile app promotion
+Firefighter's homepage
+offer
+Establish a meeting
+PR Room
+Strengthen PR
+Strengthen PR
+Mobile Situation Management
+system
+Situation management
+Disaster expert
+Establish system strengthening plan
+Strengthen community composition
+Strengthen operations
+Strengthen operations
+○ Strengthening the promotion of mobile apps (safety stepping stone) (March ~ December)
+- Headquarters and Disaster Prevention Center
+○ Strengthening mobile situation management system (April ~ June)
+- Expert group by disaster area
+※ Use the disaster expert pool provided by the Safety Headquarters to increase participation
+- 1270 -
+○ National Security Center Safety guard Mobile manual Information sharing
+- Disaster Characters
+Establish linkage so that it can be reflected on Seoul mobile web page in real time
+○ Addition of fire-fighting mobile web server during Seoul integrated security control
+- Add fire-fighting mobile network (server, etc.) to the integrated security control system policy
+Prevention of security vulnerabilities and external intrusion security incidents
+General Manager, Telecommunication Division Manager: Kang Kyung-cheol ☎726-2210 Head of Computer Operation Team: Seo Yong-Seok ☎2241 Charge: Lee Eun-cheol ☎2242
+Coordinating department General Sang-hoo Kim: Kim Sung-ho ☎ 726-2301 Situation general manager: Eimja ☎2010 Charge: Kim Tae-hyung ☎2012
+- 1271 -
